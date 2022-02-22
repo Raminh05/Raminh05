@@ -1,4 +1,4 @@
-### Hi there 👋
+### GOOOD MORNING (or night idk) GITHUB!!!!! 👋
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on LCSS-WeatherBot
 - 🌱 I’m currently learning Python, Java, and C++!
