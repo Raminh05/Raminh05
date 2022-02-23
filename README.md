@@ -2,7 +2,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [LCSS-WeatherBot](https://github.com/Raminh05/LCSS-WeatherBot), (and occasionally) [RaddedMC's SmartFrame](https://github.com/RaddedMC/SmartFrame)
 - 🌱 I’m currently learning Python, Java, and C++!
-- 👯 I’m looking to collaborate on Viking Robotics
+- 👯 I’m looking to collaborate on [Viking Robotics](https://github.com/FRC6854)
 - ⚡ Fun fact: House Hippos are cool!
 
 ![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminh05&show_icons=true&theme=monokai)
