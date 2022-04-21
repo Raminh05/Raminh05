@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, Java, and C++!
 - 👯 I’m looking to collaborate on [Viking Robotics](https://github.com/FRC6854)
 - ⚡ Fun fact: House Hippos are *very* cool!
-- 📆 Today's date is: April 19th, 2022
+- 📆 Today's date is: April 21st, 2022
 
 
 #### My Github Stats 📊
