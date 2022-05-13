@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Python, Java, and C++!
 - 👯 I’m looking to collaborate on [Viking Robotics](https://github.com/FRC6854)
 - ⚡ Fun fact: House Hippos are *very* cool!
-- 📆 Today's date is: May 9th, 2022
-
 
 #### My Github Stats 📊
 ![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminh05&show_icons=true&theme=monokai)
