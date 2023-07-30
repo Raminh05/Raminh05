@@ -1,7 +1,8 @@
 ## GOOOD MORNING (or night idk) GITHUB!!!!! 👋
+- 🌪️ Research intern at The [Northern Tornadoes Project](https://www.uwo.ca/ntp/)
 - 🔭 I’m currently working on [LCSS-WeatherBot](https://github.com/Raminh05/LCSS-WeatherBot), (and occasionally) [RaddedMC's SmartFrame](https://github.com/RaddedMC/SmartFrame)
-- 🌱 I’m currently learning Python, JavaScript (with Svelte), and C++!
-- 👯 I’m looking to collaborate on [Viking Robotics](https://github.com/FRC6854)
+- 🌱 I’m currently learning Python, Typescript (with Svelte and React), and C++!
+- 👯 [Viking Robotics](https://github.com/FRC6854) alumni
 - ⚡ Fun fact: House Hippos are *very* cool!
 
 ### Former Projects
@@ -11,20 +12,3 @@
 | ![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminh05&show_icons=true&theme=monokai)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminh05)](https://github.com/Raminh05/github-readme-stats)  |
 | ------------- | ------------  |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raminh05"></img> 
-
-
-
-
-
-<!--
-**Raminh05/Raminh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-
-
--->
