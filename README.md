@@ -1,7 +1,7 @@
 ## GOOOD MORNING (or night idk) GITHUB!!!!! 👋
-- 🌪️ Research intern at The [Northern Tornadoes Project](https://www.uwo.ca/ntp/)
+- 🌪️ Research intern at the [Northern Tornadoes Project](https://www.uwo.ca/ntp/)
 - 🔭 I’m currently working on [LCSS-WeatherBot](https://github.com/Raminh05/LCSS-WeatherBot), (and occasionally) [RaddedMC's SmartFrame](https://github.com/RaddedMC/SmartFrame)
-- 🌱 I’m currently learning Python, Typescript (with Svelte and React), and C++!
+- 🌱 I’m currently learning Python, Typescript (Svelte/React), and C++!
 - 👯 [Viking Robotics](https://github.com/FRC6854) alumni
 - ⚡ Fun fact: House Hippos are *very* cool!
 
